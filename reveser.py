@@ -4,3 +4,4 @@ caractere_invertido = caractere[::-1]
 
 print(f'O caractere digitado invertido é: {caractere_invertido}')
 
+#teste
